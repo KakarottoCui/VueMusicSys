@@ -1,7 +1,7 @@
 # VueMusicSys
 基于Springboot和Vue的在线音乐平台
 
-演示视频连接：https://live.csdn.net/v/205064
+演示视频连接：https://www.bilibili.com/video/BV1pY4y1b7x3/
 
 实现的功能
 
